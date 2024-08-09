@@ -1,4 +1,5 @@
 - 👋 Hi, I’m SAQIB NAZIR
+- HashiCorp Certified:Terraform Associate 
 - 👀  Developed and maintained automated CI/CD pipelines for code deployment using Jenkins
 - Provisioned Servers and deployed features using Ansible
 - Built and deployed Docker containers for implementing Microservice Architecture from monolithic Architecture 
