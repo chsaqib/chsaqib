@@ -1,5 +1,6 @@
 - 👋 Hi, I’m SAQIB NAZIR
-- HashiCorp Certified:Terraform Associate 
+- HashiCorp Certified:Terraform Associate
+- https://www.credly.com/badges/7cbb98e1-c7b1-4249-8fce-3504d2991fab/public_url
 - 👀  Developed and maintained automated CI/CD pipelines for code deployment using Jenkins
 - Provisioned Servers and deployed features using Ansible
 - Built and deployed Docker containers for implementing Microservice Architecture from monolithic Architecture 
